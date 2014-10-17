@@ -10,3 +10,5 @@ pulling to downstream
 
 
 editing for pulling
+
+friday session
